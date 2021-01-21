@@ -1,5 +1,5 @@
 var APP_PREFIX = 'CarShare'
-var VERSION = 'v02'           
+var VERSION = 'v1'           
 var CACHE_NAME = APP_PREFIX + VERSION
 
 var URLS = [
